@@ -1,0 +1,10 @@
+c:\users\xvier\documents\visual studio 2015\Projects\Milionerzy\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\Xvier\Desktop\Milion\Milionerzy\bin\Debug\Milionerzy.exe.config
+C:\Users\Xvier\Desktop\Milion\Milionerzy\bin\Debug\Milionerzy.exe
+C:\Users\Xvier\Desktop\Milion\Milionerzy\bin\Debug\Milionerzy.pdb
+C:\Users\Xvier\Desktop\Milion\Milionerzy\obj\Debug\Milionerzy.csprojResolveAssemblyReference.cache
+C:\Users\Xvier\Desktop\Milion\Milionerzy\obj\Debug\Milionerzy.Form1.resources
+C:\Users\Xvier\Desktop\Milion\Milionerzy\obj\Debug\Milionerzy.Properties.Resources.resources
+C:\Users\Xvier\Desktop\Milion\Milionerzy\obj\Debug\Milionerzy.csproj.GenerateResource.Cache
+C:\Users\Xvier\Desktop\Milion\Milionerzy\obj\Debug\Milionerzy.exe
+C:\Users\Xvier\Desktop\Milion\Milionerzy\obj\Debug\Milionerzy.pdb
